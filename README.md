@@ -34,12 +34,12 @@ Unlike standard "Sentiment Analysis" projects that classify text as merely Posit
 
 ### 1. The "Battlefield" Map (Sentiment by Feature)
 *Visualize which tool dominates specific categories.*
-> ![Chart 1 Description](Chart 1.png)
+>> ![Chart 1](Chart%201.png)
 * **Insight:** [Example: Tableau outperforms Power BI in UI/UX sentiment by 15%, suggesting a more intuitive mobile design.]
 
 ### 2. The Pain Point Detector
 *Volume of negative complaints per category.*
-> ![Chart 1 Description](Chart 2.png)
+> > ![Chart 2](Chart%202.png)
 * **Insight:** [Example: Power BI suffers from a high volume of "Login/Access" complaints, indicating potential authentication gateway failures.]
 
 ---
